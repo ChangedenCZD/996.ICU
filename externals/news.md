@@ -2,7 +2,15 @@
 
 ## 中文媒体
 
+- 新浪财经：[多名政协委员回应马云996：对员工提要求就是违法](http://finance.sina.com.cn/chanjing/gsnews/2019-04-18/doc-ihvhiqax3657558.shtml)
+
+- 新浪财经：[胡锡进谈“996”现象：既莫上纲上线 也应认真缓解](http://finance.sina.com.cn/wm/2019-04-06/doc-ihvhiqax0439519.shtml?cre=tianyi&mod=pchp&loc=1&r=0&rfunc=100&tj=none&tr=12)
+
+- 每日经济网：[“996”不符合社会主义关于人的发展价值观](http://www.nbd.com.cn/articles/2019-04-14/1321040.html)
+
 - 经济日报：[挥别“996”，从今天开始](http://paper.ce.cn/jjrb/html/2019-04/18/content_389134.htm)
+
+- 中国经济网：[“996”工作制有蔓延趋势：超七成白领无偿加班](http://www.ce.cn/cysc/newmain/yc/jsxw/201904/22/t20190422_31908001.shtml)
 
 - 人民网：[遏制“996” 需要劳动监察部门发力](http://industry.people.com.cn/n1/2019/0417/c413883-31033624.html)
 
@@ -116,6 +124,15 @@
 
 - 凤凰网：[视频：监控实拍深圳某公司程序员周末加班突然晕倒 现场画面触目惊心](http://v.ifeng.com/video_22036450.shtml)
 
+- 凤凰网：[胡锡进三谈996：高管有想怎么工作都行的选择权，但员工却没有](http://v.ifeng.com/201904/video_38353481.shtml)
+
+- 凤凰网：[拒绝996同样是为了中国经济！新华社、人民日报等官媒：996当退场](https://feng.ifeng.com/c/7m379HCXbMq)
+
+- 环球网：[胡锡进再谈996:公司高管怎么高强度工作都行,但不应强制要求员工](https://m.huanqiu.com/r/MV8wXzE0NzE3MTY1XzEyNjRfMTU1NTEzODkyMA==)
+
+- 金融界：[冯仑：关于「996」，我的看法是这样的](https://baijiahao.baidu.com/s?id=1631468784393271629&wfr=spider&for=pc)
+
+
 ### 非中国媒体
 
 - BBC中文网：[中国程序员GitHub上抗议“996”血汗加班走红网络](https://www.bbc.com/zhongwen/simp/chinese-news-47824716)
@@ -130,6 +147,7 @@
 - 德国之声：[996.ICU”——码农活命站起来](https://p.dw.com/p/3GSN5)
 
 - FT中文网：[996工作制与中国科技企业的国际化](http://www.ftchinese.com/story/001082216)
+- FT中文网：[从“马云三谈996”窥视中国企业家的内心世界](http://www.ftchinese.com/story/001082356?full=y)
 
 ## 英文媒体
 
@@ -158,6 +176,9 @@
 
 - 金融时报：[China tech worker protest against long working hours goes viral](https://archive.is/IZqTj)
 - Reuters：[Rare overtime protest by China tech workers goes viral](https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B)
+
+- THE VERGE: [Microsoft workers pressure company to stand by embattled Chinese GitHub repo](https://www.theverge.com/2019/4/22/18511088/microsoft-github-tech-censorship-996-repository-china)
+
 
 ## 韩文媒体
 
